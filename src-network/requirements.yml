@@ -1,0 +1,28 @@
+---
+collections:
+  - name: https://github.com/ansible-collections/ansible.netcommon
+    type: git
+  - name: https://github.com/ansible-collections/ansible.scm
+    type: git
+  - name: https://github.com/ansible-collections/ansible.utils
+    type: git
+  - name: https://github.com/ansible-collections/arista.eos
+    type: git
+  - name: https://github.com/ansible-collections/cisco.asa
+    type: git
+  - name: https://github.com/ansible-collections/cisco.ios
+    type: git
+  - name: https://github.com/ansible-collections/cisco.iosxr
+    type: git
+  - name: https://github.com/ansible-collections/cisco.nxos
+    type: git
+  - name: https://github.com/ansible-collections/frr.frr
+    type: git
+  - name: https://github.com/ansible-collections/junipernetworks.junos
+    type: git
+  - name: https://github.com/ansible-collections/openvswitch.openvswitch
+    type: git
+  - name: https://github.com/ansible-collections/vyos.vyos
+    type: git
+  - name: community.general
+  - name: ansible.posix

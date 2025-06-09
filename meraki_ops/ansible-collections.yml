@@ -1,0 +1,6 @@
+---
+collections:
+  - name: cisco.meraki
+    version: 2.21.0
+  - name: network.meraki_ops
+    version: '>=1.0.0'

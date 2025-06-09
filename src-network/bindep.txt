@@ -1,0 +1,6 @@
+# for ansible-pylibssh
+gcc
+libssh-devel
+python3-devel
+python3-Cython
+
