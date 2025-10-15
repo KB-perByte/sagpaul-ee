@@ -1,4 +1,5 @@
 paramiko
 ansible-pylibssh
+ncclient
 scp
 dnspython
